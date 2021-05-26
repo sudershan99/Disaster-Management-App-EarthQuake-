@@ -1,4 +1,4 @@
-Quake Report App
+EarthQuake Disaster Management App
 ===================================
 
 This app displays a list of recent earthquakes in the world
