@@ -1,8 +1,8 @@
 EarthQuake Disaster Management App
 ===================================
 
-This app displays a list of recent earthquakes in the world
-from the U.S. Geological Survey (USGS) organization.
+This is an app to track recent earthquakes with detailed information about each earthquake. It also includes some national helplines and the resources needed in the wake of such a disaster.
+The API used is from the U.S. Geological Survey (USGS) organization.
 
 
 
