@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570592059676",
+    "project_id": "disaster-2c248",
+    "storage_bucket": "disaster-2c248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570592059676:android:dc059788da393168595ad9",
+        "android_client_info": {
+          "package_name": "com.example.android.quakereport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570592059676-gn65q8m0s4521jiavukqs1qqo5ki4seh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38Cah5hVhnnGnQaegnprNn2XQwJrwQLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570592059676-gn65q8m0s4521jiavukqs1qqo5ki4seh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
